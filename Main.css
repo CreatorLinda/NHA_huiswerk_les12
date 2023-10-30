@@ -1,0 +1,27 @@
+    /* Stijl voor de header */
+    header {
+        background-color: blue;
+        padding: 1em;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      header img {
+        height: 50px;
+      }
+      header h1 {
+        color: white;
+        font-size: 36px;
+        margin: 0;
+      }
+      /* Stijl voor de footer */
+      footer {
+        background-color: blue;
+        color: white;
+        padding: 1em;
+        text-align: center;
+      }
+      body{
+        background-color: rgb(228, 179, 235);
+        color: rgb(12, 109, 245);
+        }
